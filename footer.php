@@ -1,5 +1,5 @@
         <footer id="footer">
-            Copyright <a href="https://twitter.com/narumismis">なる</a>. All Rights Reserved.
+            Copyright <a href="">なる</a>. All Rights Reserved.
         </footer>
         <script src="js/vendor/jquery-2.2.2.min.js"></script>
         <script>
